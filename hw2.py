@@ -2,6 +2,8 @@ import pandas as pd
 
 df = pd.read_csv("https://data.ny.gov/api/views/5xaw-6ayf/rows.csv?accessType=DOWNLOAD")
 
+print("The dataframe has %d columns." % len(list(df)))
+
 def test_create_dataframe(df):
     checks = []
     
