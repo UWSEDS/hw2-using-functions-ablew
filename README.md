@@ -1,6 +1,10 @@
 # HW2 - Using Functions
 
-##### Grade: 4/7    
+##### Final grade: 7/7    
+  
+-0: I think I mentioned this in your hw3-4 as well -- in general, consider avoiding using integer values for boolean condition checking.   
+
+Grade: 4/7       
 
 -3: Didn't show that the datafraom has at least 3 columns     
 -0: It's not *wrong* to use an integer value to check if the types are what you expect, but this might not have been the most clear way of doing it.
